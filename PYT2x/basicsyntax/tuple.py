@@ -24,5 +24,6 @@ print(my_tuple[1:]) #Able to slice
 print("#*" * 30)
 print(my_tuple.index(3)) #Index finds the position of a element
 
+
 print("#*" * 30)
 print(my_tuple.count(1)) #counts the number of times the item/element appears in the tuple

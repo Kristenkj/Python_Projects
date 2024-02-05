@@ -5,6 +5,7 @@ exp of a dictionary: {'k1':'v1','k2':'v2'}
 Not sequenced, no indexing... just mapping (Can appear in any order)
 """
 
+
 car = {'make': 'bmw', 'model': '550i', 'year': 2016}
 print(car)
 d = {}  # defining empty dictionary

@@ -32,6 +32,7 @@ print(a)
 print(b)
 
 print("********************************")
+
 print(bool(0))
 print(bool(1))
 print(bool(3))

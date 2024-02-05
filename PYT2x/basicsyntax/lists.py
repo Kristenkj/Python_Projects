@@ -3,6 +3,7 @@ Data type to store more than one value in one variable name
 List items are in brackets, separated with " , " [1,3,4]
 """
 
+
 cars = ["BMW", "Honda", "AUDI", "Acura", "Subaru"]
 empty_list = []
 print(cars)

@@ -47,6 +47,7 @@ Continue: Go to the start of the closest enclosing loop
 """
 
 """
+
 p = 0
 while p < 8:
     print("Value of p is:  " + str(p))
@@ -56,6 +57,7 @@ while p < 8:
         break
         print("This example is awesome")
         print("#*" * 20)
+        
 """
 m = 0
 while m < 15:

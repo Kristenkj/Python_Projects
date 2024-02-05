@@ -7,6 +7,7 @@
 >= --> Greater than or equal to
 
 """
+
 #With comparators we are just comparing values
 bool_one = 10 == 10
 print(bool_one)

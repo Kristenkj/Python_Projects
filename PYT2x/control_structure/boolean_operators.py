@@ -16,6 +16,7 @@ not
 Not True --> False
 Not False --> True
 """
+
 and_output1 = (10 == 10) and (9 <= 11)
 print(and_output1)
 print("*#" * 30)

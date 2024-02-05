@@ -4,6 +4,7 @@ Examples to show how strings work in python
 Sequence of characters
 Contains a-z, 0-9, @
 
+
 Can use double or single quotes
     *Note: quotes have to stay consistent for a word or phrase
         Not allowed: "Hello World'

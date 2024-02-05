@@ -7,6 +7,7 @@ Remember to use _ to represent spaces. Python is smart, and we do not need to me
 *Triple quotes represent multi line comments
 """
 
+
 a = 10
 b = 20
 add = a + b
