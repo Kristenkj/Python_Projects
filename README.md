@@ -2,7 +2,7 @@
 This repository contains a list of projects completed during my Python training. The projects were created using pycharm. 
 You will find individual projects in there own folder that I have completed and wished to showcase within their own folders.
 
-Within the 'PYT2X' folder you will find labs that I have completed within my learning of the Python language to practice and advance my skills.
+Within the 'PYT2x' folder you will find labs that I have completed within my learning of the Python language to practice and advance my skills.
 
 ## Getting Started 
 
