@@ -14,7 +14,7 @@ Below you will find a table with more info regarding the projects within each fo
 |Folder | Project Name | Description | Tools Used |
 | --- | --- | --- | --- |
 | 15 Days of Python |  | This folder includes tasks/challenges that I have completed throughout my learning| Pycharm |
-| |  | | |
+|Daily_Challenge24 |  |This folder includes challenges that I have completed in the 2024 year to fine tune my skills|Pycharm |
 | |  | | |
 |  |  | | |
 |  |  | | |
