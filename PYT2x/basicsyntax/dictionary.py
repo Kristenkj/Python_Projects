@@ -23,11 +23,13 @@ sum_3 = d['two'] = sum_1 + 12
 print(sum_1)
 print(sum_3)
 
+
 """
 Nested dictionaries
 d = {'k1':{'nestk1':'nestvalue1', 'nestk2':'nestvalue2'}}
 d['k1']['nestk1']
 """
+
 cars = {'BMW': {'model': '550i', 'year': 2016}, 'benz': {'model': 'E350', 'year': 2015}}
 bmw_year = cars['BMW']['year']
 print(bmw_year)
