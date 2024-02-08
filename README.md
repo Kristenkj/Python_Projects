@@ -15,7 +15,8 @@ Below you will find a table with more info regarding the projects within each fo
 | --- | --- | --- | --- |
 | Daily_Challenge |  | This folder includes tasks/challenges that I have completed throughout my learning| Pycharm |
 |  |  | | |
-|System_Builds | receipts_loveseats | |Pycharm |
+|System_Builds | receipts_loveseats |This project creates receipts for customers of a
+small business by tallying chosen items and then outputting the total cost with the sales tax added in.|Pycharm |
 |  |  | | |
 |  |  | | |
 |  |  | | |
