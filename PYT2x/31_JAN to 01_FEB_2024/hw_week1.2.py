@@ -1,4 +1,4 @@
-#Task #02_FEB_2024 - Print the Table of 02_FEB_2024 by using the command print()
+#Task #06_FEB_2024 - Print the Table of 06_FEB_2024 by using the command print()
 #2 x 1 = 2
 #2 x 2 = 4
 #...

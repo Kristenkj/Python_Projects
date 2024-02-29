@@ -7,7 +7,7 @@ def add_two_numbers(a, b):
 
 @pytest.mark.math
 def test_small_number():
-    assert add_two_numbers(1, 2) == 30, "The Sum of 1 and 02_FEB_2024 should be 3."
+    assert add_two_numbers(1, 2) == 30, "The Sum of 1 and 06_FEB_2024 should be 3."
 
 
 @pytest.mark.math

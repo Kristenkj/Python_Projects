@@ -19,13 +19,14 @@ is_Married = True
 
 a = 5
 b = 5
-c = False
+c = 6
 print(a is b)#True
 print(a is c)#False
 
 my_list = [1,2,3]
 my_list2 = [1,2,3]
 print(my_list2 is my_list)#False
+
 
 print(age)
 print(my_bank_balance)
