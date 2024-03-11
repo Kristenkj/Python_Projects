@@ -1,7 +1,15 @@
 with open("td.txt", "r") as file:
     lines = file.readlines()
 
-# print(lines)
+#print(lines)
+#print(*************************************)
+
+#print(lines)
+#for line in lines:
+  #  print(line)
+
+#(********)
+
 for line in lines:
     print(line, end="")
 
